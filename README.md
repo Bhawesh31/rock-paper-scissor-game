@@ -1,2 +1,25 @@
-# rock-paper-scissor-game
-This is a simple and fun Rock, Paper, Scissors game built using Python. The game allows a user to play against the computer, which makes its move randomly. It demonstrates the use of conditional statements, loops, and random number generation — making it a great beginner project to practice core programming concepts.
+# Rock Paper Scissors Bot 🤖✊✋✌️
+
+A smart bot that wins over 60% of matches against 4 strategy-based opponents.
+
+## Features
+- Frequency analysis
+- Adapts to bot patterns
+- Beats Quincy, Kris, Mr. Robot, and Abbey
+
+## How to Run
+
+```bash
+python main.py
+```
+
+## File Descriptions
+
+- `RPS.py`: Your bot logic
+- `RPS_game.py`: Game engine (do not modify)
+- `main.py`: Testing script
+- `test_module.py`: Unit tests
+
+---
+
+✅ Submit your project Gitpod/GitHub link to FreeCodeCamp
